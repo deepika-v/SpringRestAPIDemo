@@ -165,7 +165,3 @@ Target coverage: 80% overall (lines, branches, methods).
 3. Add tests for new functionality
 4. Ensure code coverage remains above 80%
 5. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License.
